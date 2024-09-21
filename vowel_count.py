@@ -6,7 +6,7 @@ my_string = "Welcome to python session"
 count_characters = "eso"
 characters_frequency = {}
 
-# usig for loop to iterate and count the characters
+# using for loop to iterate and count the characters
 for char in my_string: # w e l c o m e
     if char in count_characters: 
         if char in characters_frequency:
